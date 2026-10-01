@@ -10,6 +10,7 @@ Here are the IDE extensions made by me or my organization @hevanaco
 | React Template Literal Formatter | https://open-vsx.org/extension/TheHasnainIzhar/react-template-literal-formatter |
 
 We have planned some other stuff and we are working in private currently.
+
 ---
 
 Made with ❤️ by us and @hevana. Thanks for your support.
